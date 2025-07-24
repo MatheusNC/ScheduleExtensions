@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="PTR_ScheduleExtensions">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 161383014 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extension Schedule</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extension Schedule - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 161383014 - Field 3673089793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>App File</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extension Schedule - Field App File - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 161383014 - Field 3834798520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>App Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extension Schedule - Field App Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 161383014 - Field 404053623 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extension Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extension Schedule - Field Extension Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 161383014 - Field 804481195 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>File Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extension Schedule - Field File Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 161383014 - Field 2273653569 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Language Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extension Schedule - Field Language Code - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 161383014 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extension Schedule - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 161383014 - Field 1927853129 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Package Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extension Schedule - Field Package Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 161383014 - Field 4130293374 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Priority</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extension Schedule - Field Priority - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 161383014 - Field 1699374643 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Schedule Date</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extension Schedule - Field Schedule Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 161383014 - Field 1549919492 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Schedule Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extension Schedule - Field Schedule Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 161383014 - Field 3936015248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sync Mode</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extension Schedule - Field Sync Mode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2409572735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extension Schedule Dependency</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extn. Schedule Dependency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2409572735 - NamedType 2877061579" size-unit="char" translate="yes" xml:space="preserve">
+          <source>App Id and Dependency App Id cannot be the same.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extn. Schedule Dependency - NamedType AppIdAndDependencyAppIdErr</note>
+        </trans-unit>
+        <trans-unit id="Table 2409572735 - Field 3834798520 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>App Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extn. Schedule Dependency - Field App Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2409572735 - Field 3691683021 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dependency App Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extn. Schedule Dependency - Field Dependency App Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2409572735 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table PTR Extn. Schedule Dependency - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168595876 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extensions Schedule List</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extension Schedule List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 168595876 - Control 3834798520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the App Id field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extension Schedule List - Control App Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168595876 - Control 404053623 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Extension Status field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extension Schedule List - Control Extension Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168595876 - Control 804481195 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the File Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extension Schedule List - Control File Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168595876 - Control 2273653569 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Language Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extension Schedule List - Control Language Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168595876 - Control 4130293374 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Priority field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extension Schedule List - Control Priority - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168595876 - Control 1699374643 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Schedule Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extension Schedule List - Control Schedule Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168595876 - Control 1549919492 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Schedule Time field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extension Schedule List - Control Schedule Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 168595876 - Control 3936015248 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how the extension will be synchronized.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extension Schedule List - Control Sync Mode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extensions Schedule</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - NamedType 3507654781" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The extension file has been uploaded successfully. Do you want to see the implmentation status?</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - NamedType ConfirmUploadLbl</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - NamedType 1877045785" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The extension has dependencies that are not installed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - NamedType ExtensionHasDependenciesErr</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - NamedType 2155098356" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The file does not exist.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - NamedType FileUploadErr</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - NamedType 3964607072" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The status cannot be changed because the extension has been implemented.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - NamedType StatusCompletedErr</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - NamedType 1764024940" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The action cannot be performed because the extension status is not "Not Initialized".</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - NamedType StatusNotInitializedErr</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Control 3834798520 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the App Id field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Control App Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Control 404053623 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Extension Status field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Control Extension Status - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Control 804481195 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the File Name field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Control File Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Control 2273653569 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Language Code field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Control Language Code - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Control 4130293374 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Priority field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Control Priority - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Control 1699374643 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Schedule Date field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Control Schedule Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Control 1549919492 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Schedule Time field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Control Schedule Time - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Control 3936015248 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how the extension will be synchronized.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Control Sync Mode - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Action 3523694699 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>View the dependencies of the extension.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Action Dependencies - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Action 3523694699 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Dependencies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Action Dependencies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Action 4023200172 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set the status of the extension to Not Initialized.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Action SetToNotInitialized - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Action 4023200172 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set to Not Initialized</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Action SetToNotInitialized - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Action 2739488049 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set the status of the extension to On Hold.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Action SetToOnHold - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Action 2739488049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Set to On Hold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Action SetToOnHold - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Action 2097611062 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload the extension file.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Action UploadExtension - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 598008435 - Action 2097611062 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Upload Extension</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extensions Schedule - Action UploadExtension - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2238140871 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Implementation Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extn. Impl. Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2238140871 - Control 318613646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extn. Impl. Status - Control Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2238140871 - Action 2026913255 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh the list</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extn. Impl. Status - Action Refresh - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2238140871 - Action 2026913255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extn. Impl. Status - Action Refresh - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4045547467 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extension Schedule Dependencies</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extn. Sched. Dependencies - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4045547467 - Control 3691683021 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The application id of the dependent extension</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extn. Sched. Dependencies - Control Dependency App Id - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4045547467 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The description of the dependent extension. This field is informational only and is not used by the system.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PTR Extn. Sched. Dependencies - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Enum 302626698 - EnumValue 3665605423 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Completed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PTR Schedule Extension Status - EnumValue Completed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 302626698 - EnumValue 3826689261 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Failed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PTR Schedule Extension Status - EnumValue Failed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 302626698 - EnumValue 1258534936 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Initialized</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PTR Schedule Extension Status - EnumValue Initialized - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 302626698 - EnumValue 2779858683 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Not Initialized</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PTR Schedule Extension Status - EnumValue Not Initialized - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 302626698 - EnumValue 926489874 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>On Hold</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PTR Schedule Extension Status - EnumValue On Hold - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
